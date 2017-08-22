@@ -19,7 +19,9 @@
 - [Tencent/weui](https://github.com/Tencent/weui)
 - [VPN---Lantern](https://github.com/getlantern/forum)
 # Essay
-- []
+- [多项式的系数](https://github.com/ValentineF/TuzkiCode/blob/master/Essay/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E7%9A%84%E7%B3%BB%E6%95%B0.md)
+- [杯子的质量（DP）](https://github.com/ValentineF/TuzkiCode/blob/master/Essay/%E6%9D%AF%E5%AD%90%E7%9A%84%E8%B4%A8%E9%87%8F%EF%BC%88DP%EF%BC%89.md)
+- [鸡兔同笼](https://github.com/ValentineF/TuzkiCode/blob/master/Essay/%E9%B8%A1%E5%85%94%E5%90%8C%E7%AC%BC.md)
 # Document
 - [复杂网络与社会计算概论.ppt](https://github.com/ValentineF/TuzkiCode/blob/master/Document/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C%E4%B8%8E%E7%A4%BE%E4%BC%9A%E8%AE%A1%E7%AE%97%E6%A6%82%E8%AE%BA.pptx)
 - [嵌入式系统复习](https://github.com/ValentineF/TuzkiCode/blob/master/Document/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0.docx)
