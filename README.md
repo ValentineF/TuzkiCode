@@ -1,8 +1,7 @@
 # TuzkiCode
 零零碎碎的小东西，包括以下内容
-- 一些不成熟的Demo
-- 比赛或者课堂成果
-- 一些练习和文档
+- 比赛或者课堂的Demo
+- 有意思的文章
 - 一些优秀的开发资源
 - 个人开发过程中整理的文章
 - 读书笔记
@@ -12,7 +11,6 @@
 # Note
 - [.Net with C#](https://github.com/ValentineF/TuzkiCode/blob/master/Note/.Net%20with%20C%23.md)
 - [C++](https://github.com/ValentineF/TuzkiCode/blob/master/Note/C%2B%2B.md)
-
 - [DataBase](https://github.com/ValentineF/TuzkiCode/blob/master/Note/DataBase.md)
 # Demo
 - [The War Of Tanks](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/The%20War%20Of%20Tanks)
@@ -20,6 +18,8 @@
 # Resource
 - [Tencent/weui](https://github.com/Tencent/weui)
 - [VPN---Lantern](https://github.com/getlantern/forum)
+# Essay
+- []
 # Document
 - [复杂网络与社会计算概论.ppt](https://github.com/ValentineF/TuzkiCode/blob/master/Document/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C%E4%B8%8E%E7%A4%BE%E4%BC%9A%E8%AE%A1%E7%AE%97%E6%A6%82%E8%AE%BA.pptx)
 - [嵌入式系统复习](https://github.com/ValentineF/TuzkiCode/blob/master/Document/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0.docx)
