@@ -13,11 +13,12 @@
 - [C++](https://github.com/ValentineF/TuzkiCode/blob/master/Note/C%2B%2B.md)
 - [DataBase](https://github.com/ValentineF/TuzkiCode/blob/master/Note/DataBase.md)
 # Demo
-- [The War Of Tanks](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/The%20War%20Of%20Tanks)（ 按照教程学的Unity坦克大战 ）
-- [Arduino](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/Arduino)（ 大学生创新的自动变速电机代码 ）
-- [基于Web的服务器文件查找系统](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/FileManagerSystem)( Java期末作业，其实就是在线文件搜索 )
-- [某网站的图片爬虫](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/ImageSpider)(emmmmmm，福利)
+- [The War Of Tanks](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/The%20War%20Of%20Tanks) (按照教程学的Unity坦克大战)
+- [Arduino](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/Arduino) (大学生创新的自动变速电机代码)
+- [基于Web的服务器文件查找系统](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/FileManagerSystem) ( Java期末作业，其实就是在线文件搜索 )
+- [某写真网站的图片爬虫](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/ImageSpider) (emmmmmm，福利哦)
 - [各高校的校情简介爬虫](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/CollegeSpider)
+- [阴阳师自动刷御魂](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/OnmyojiHelper)    (基本的模拟键鼠操作)
 # Resource
 - [Tencent/weui](https://github.com/Tencent/weui)
 - [VPN---Lantern](https://github.com/getlantern/forum)
