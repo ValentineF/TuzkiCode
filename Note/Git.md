@@ -106,4 +106,4 @@ $ git pull
 Git为分布式管理，SVN为集中式管理；   
 Git下每个人都是一个完整的库；SVN则类似与图书馆
 # 命令图
-![](Resource/GitCommand.png)    
+![](https://github.com/ValentineF/TuzkiCode/blob/master/Resource/GitCommand.png)    
