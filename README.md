@@ -12,6 +12,8 @@
 - [.Net with C#](https://github.com/ValentineF/TuzkiCode/blob/master/Note/.Net%20with%20C%23.md)
 - [C++](https://github.com/ValentineF/TuzkiCode/blob/master/Note/C%2B%2B.md)
 - [DataBase](https://github.com/ValentineF/TuzkiCode/blob/master/Note/DataBase.md)
+- [Git](https://github.com/ValentineF/TuzkiCode/blob/master/Note/Git.md)
+- [HTML](https://github.com/ValentineF/TuzkiCode/blob/master/Note/HTML.md)
 # Demo
 - [The War Of Tanks](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/The%20War%20Of%20Tanks) (按照教程学的Unity坦克大战)
 - [Arduino](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/Arduino) (大学生创新的自动变速电机代码)
@@ -22,6 +24,7 @@
 # Resource
 - [Tencent/weui](https://github.com/Tencent/weui)
 - [VPN---Lantern](https://github.com/getlantern/forum)
+- [GitCommand](https://www.git-tower.com/blog/git-cheat-sheet/)
 # Essay
 - [多项式的系数](https://github.com/ValentineF/TuzkiCode/blob/master/Essay/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E7%9A%84%E7%B3%BB%E6%95%B0.md)
 - [杯子的质量（DP）](https://github.com/ValentineF/TuzkiCode/blob/master/Essay/%E6%9D%AF%E5%AD%90%E7%9A%84%E8%B4%A8%E9%87%8F%EF%BC%88DP%EF%BC%89.md)
