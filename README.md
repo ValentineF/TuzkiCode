@@ -22,9 +22,10 @@
 - [各高校的校情简介爬虫](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/CollegeSpider)
 - [阴阳师自动刷御魂](https://github.com/ValentineF/TuzkiCode/tree/master/Demo/OnmyojiHelper)    (基本的模拟键鼠操作)
 # Resource
-- [Tencent/weui](https://github.com/Tencent/weui)
-- [VPN---Lantern](https://github.com/getlantern/forum)
-- [GitCommand](https://www.git-tower.com/blog/git-cheat-sheet/)
+| [Tencent/weui](https://github.com/Tencent/weui) | [Lantern](https://github.com/getlantern/forum) | [GitCommand](https://www.git-tower.com/blog/git-cheat-sheet/) |
+| :----: | :----: | :----: |
+| [.Net资源](https://github.com/jobbole/awesome-dotnet-cn) | [Python资源](https://github.com/jobbole/awesome-python-cn) | [设计工具](https://github.com/jobbole/awesome-design-cn) |
+
 # Essay
 - [多项式的系数](https://github.com/ValentineF/TuzkiCode/blob/master/Essay/%E5%A4%9A%E9%A1%B9%E5%BC%8F%E7%9A%84%E7%B3%BB%E6%95%B0.md)
 - [杯子的质量（DP）](https://github.com/ValentineF/TuzkiCode/blob/master/Essay/%E6%9D%AF%E5%AD%90%E7%9A%84%E8%B4%A8%E9%87%8F%EF%BC%88DP%EF%BC%89.md)
