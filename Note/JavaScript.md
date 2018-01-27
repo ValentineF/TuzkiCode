@@ -11,7 +11,7 @@ if (itemName == null || itemName == "") {
 需要对返回的对象进行判断处理，样例：
 ```
 
-``` $(function () {
+ $(function () {
         $("#btnSave").click(function () {
             var logo = document.getElementById("LogoUrl").files[0];
             var title = $("#ColumnTitle").val();
@@ -75,3 +75,4 @@ if (itemName == null || itemName == "") {
             window.parent.location.reload(true);
         });
     });
+```
