@@ -54,5 +54,11 @@ $("#test").contents().find("body").html("2312312");
         });
     });
 </script>
-
+```
+# 复选框checkBox的只读（disabled）
+checkBox 和 普通的输入元素不同，不能使用readonly元素来禁止修改。   
+readonly操纵的是value元素，使得无法更改value。所以对于checkBox无效   
+应使用disabled属性
+```
+<input disabled="disabled" id="ShowTitle" name="ShowTitle" type="checkbox" value="True" checked="checked">
 ```

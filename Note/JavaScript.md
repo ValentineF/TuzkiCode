@@ -111,3 +111,43 @@ var json = (from r in modelList
             }).ToArray();
 return Json(json, JsonRequestBehavior.AllowGet);
 ```
+# Jqeury easyui datagrid 插件 · 使用同行字段的数据
+这个是官方API的formatter函数定义   
+单元格的格式化函数，需要三个参数：   
+value：字段的值。   
+rowData：行的记录数据。   
+rowIndex：行的索引。   
+```
+$('#dg').datagrid({
+	columns:[[
+		{field:'userId',title:'User', width:80,
+			formatter: function(value,row,index){
+				if (row.user){
+					return row.user.name;
+				} else {
+					return value;
+				}
+			}
+		}
+	]]
+});
+```
+下面是实际应用，给附件增加超链接（有兴趣的可以用console查看row属性）   
+```
+ $('#List').datagrid({
+            ...
+            ...
+            columns: [[
+                { field: 'Id', title: 'Id', width: 80, sortable: true },       
+                {
+                    field: 'FileName', title: '附件', width: 80, sortable: true,
+                    formatter: function (value, row, index) {
+                        if (value != null) {
+                            return '<a href="' + row.FilePath + '" target="_blank">' + value + "</a>";
+                        }                       
+                    }
+                },
+                { field: 'FilePath', title: '附件链接', width: 80, sortable: true, hidden: true},
+            ]]
+        });
+```
